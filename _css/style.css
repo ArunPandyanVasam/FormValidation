@@ -1,0 +1,55 @@
+/* Name: Arun Pandyan Vasam */
+/* Date: 13/june/2023 */
+body {
+    display: block;
+    margin: 50px;
+    background-color: #66a5ad;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#main_container {
+    width: auto;
+    margin: 0px auto;
+    background-color: #156377;
+    padding: 50px;
+}
+
+label {
+    width: 180px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.results {
+    width: 420;
+    border: 3px solid white;
+    box-shadow: 0 0 10px #2c2c2c;
+    padding: 30px;
+    margin: 50px auto auto 300px;
+    color: white;
+    background-color: #0781b2;
+    border-radius: 20px;
+}
+
+.container span {
+    color: red;
+    padding-left: 50px;
+}
+
+#genderError {
+    color: red;
+    padding-left: 255px;
+}
+
+#submit_reset {
+    text-align: justify;
+}
+
+
+
+
+
